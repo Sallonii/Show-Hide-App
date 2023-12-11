@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+}
+.card-alignment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  background-color: #ffffff;
+  color: #dd1264;
+  border: 0;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+.nameStyle {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  width: 100px;
+  text-align: center;
+}
